@@ -7,4 +7,4 @@ jobs:
       - name: Chceckout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: zalayetha/podcast-generator@main
+        uses: Zalayetha/podcast-generator@main
